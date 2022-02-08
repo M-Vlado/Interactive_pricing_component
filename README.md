@@ -26,11 +26,12 @@ Users should be able to:
 
 Desktop version
 
-![my-design-desktop](https://user-images.githubusercontent.com/75842719/152977281-089cef6b-4ce9-460a-9d2b-6d6a525154ab.PNG)
+![my-design-desktop](https://user-images.githubusercontent.com/75842719/152979352-59d3a51e-a18f-4dbb-af65-72f650d978c2.PNG)
 
 Mobile version
 
-![my-design-mobile](https://user-images.githubusercontent.com/75842719/152977319-7257ac73-1ffa-4141-8c1d-970794b49fcc.PNG)
+![my-design-mobile](https://user-images.githubusercontent.com/75842719/152979400-11357c5f-d767-44e8-bb9c-44c64c3d3c77.PNG)
+
 
 
 ## My process
