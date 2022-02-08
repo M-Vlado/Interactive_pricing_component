@@ -38,8 +38,9 @@ Mobile version
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS3 custom properties
 - Flexbox
+- Javascript
 
 
 ## Author

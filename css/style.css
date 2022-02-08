@@ -73,6 +73,7 @@ header {
 
 header h1 {
     order: 1;
+    color: var(--dark-desaturated-blue-text-and-cta-background);
 
 }
 
