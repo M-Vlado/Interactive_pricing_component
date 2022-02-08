@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/normalize.css">
+  <link rel="stylesheet" href="./css/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  
+  <title>Frontend Mentor | Interactive pricing component</title>
+
+
+</head>
+<body>
+  <img src="./images/bg-pattern.svg" alt="background-pattern" class="bg-img">
+  <header>
+    <img src="./images/pattern-circles.svg" alt="circles-pattern" class="circles">
+    <h1>Simple, traffic-based pricing</h1>
+    <p>Sign-up for our 30-day trial. No credit card required.</p>
+  </header>
+
+  <main>
+    <div class="wrapper">
+      <div class="price">
+
+        <p class="views">10K Pageviews</p>
+
+        <div class="slider-container">
+          <input type="range" min="10000" max="1000000" value="10000" id="slider-id" class="slider">
+        </div>
+
+        <div class="period">
+          <p class="price-value">$8.00</p>
+          <p>&nbsp;&nbsp;/month</p>
+
+        </div>
+
+      </div>
+
+
+
+      <div class="options">
+        <p>Monthly Billing</p>
+        <label class="switch">
+          <input class="inp" type="checkbox">
+          <span class="toggle round"></span>
+        </label>
+        <p> Yearly Billing <span class="discount">-25%</span></p>
+      </div>
+      
+      <div class="bottom">
+        <div class="desc">
+          <p>Unlimited websites</p>
+          <p>100% data ownership</p>
+          <p>Email reports</p>
+        </div>
+        <button>Start my trial</button>
+      </div>
+    </div>
+  </main>
+  
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Vladimír Musil</a>.
+  </div>
+
+  <script src="./js/index.js"></script>
+</body>
+</html>
